@@ -4,4 +4,4 @@
 - Sql
 - Docker
 
-Here you can see [my resume]([https://pages.github.com/](https://vladyslav0602.github.io/resume/)https://vladyslav0602.github.io/resume/)
+Here you can see [my resume]([https://pages.github.com/](https://vladyslav0602.github.io/resume/)
